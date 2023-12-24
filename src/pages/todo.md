@@ -1,0 +1,5 @@
+- implement memoization
+- implement Promise.all
+- implement debounce
+- controlled vs uncontrolled
+- implement map, filter, reduce
